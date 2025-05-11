@@ -1,0 +1,5 @@
+flask
+pandas
+scikit-learn
+gemini_ai
+nltk
